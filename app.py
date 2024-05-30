@@ -4,5 +4,5 @@ def summation(a,b):
 
 
 #Developer B Task 1 Work
-def Subtraction(a,b):
-    return a-b
+def Subtraction(a,b,c):
+    return a-b-c
